@@ -17,6 +17,7 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
@@ -149,6 +150,11 @@
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 
+#### Yii
+
+* [Przewodnik po Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pl.pdf) - Yii Software (PDF)
+
+
 ### Prolog
 
 * [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](https://web.archive.org/web/20230329101049/http://pwlzo.pl/) - Antoni Niederliński *(:card_file_box: archived)*
@@ -156,6 +162,8 @@
 
 ### Python
 
+* [Programowanie z Pythonem](https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem%22) - Jarosław Żygierewicz, Maciej Kamiński, Zbyszek J-Szmeka
+* [Programowanie z Pythonem 3](https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem3%22) - Robert J Budzyński
 * [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
 * [Python na luzie](https://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - Andrzej Klusiewicz (PDF)
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
@@ -180,6 +188,7 @@
 ### SQL
 
 * [Bazy danych](https://mst.mimuw.edu.pl/wyklady/bad/wyklad.pdf) - Zbigniew Jurkiewicz (PDF)
+* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki (HTML) *(:construction: in process)*
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)
